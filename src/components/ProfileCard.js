@@ -3,7 +3,7 @@ export default function ProfileCard() {
     <>
       <img
         className="w-24 h-24 rounded-full mb-4"
-        src="/images/kartik.jpg"
+        src="images/kartik.jpg"
         alt="Profile"
       />
       <h2 className="text-xl font-bold">Kartik Kumar</h2>

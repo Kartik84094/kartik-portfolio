@@ -17,10 +17,10 @@ export default function Home() {
         
 
         {/* Responsive button layout */}
-        <div className="mt-4 flex flex-col sm:flex-row gap-3 sm:gap-4">
+        {/* <div className="mt-4 flex flex-col sm:flex-row gap-3 sm:gap-4">
           <button className="bg-green-500 px-4 py-2 rounded text-white hover:bg-green-600 w-full sm:w-auto"><a href="portfolio" className="">📁 View Portfolio</a></button>
           <button className="bg-blue-600 px-4 py-2 rounded text-white hover:bg-blue-700 w-full sm:w-auto"><a href="resume" className="">📄 View Resume</a></button>
-        </div>
+        </div> */}
       </section>
 
       <section className="mt-12">
