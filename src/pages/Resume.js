@@ -13,7 +13,7 @@ export default function Resume() {
                     <div className="mt-6 md:mt-0 text-sm text-gray-300 space-y-1">
                         <p>📞 +91 84094 69744</p>
                         <p>✉️ kartikkumar84094@gamil.com</p>
-                        <p>🌐 www.yourwebsite.com</p>
+                        <p>🌐 https://kartik84094.github.io/kartik-portfolio/</p>
                         <p>📍Bangalore, India</p>
                     </div>
                 </div>
