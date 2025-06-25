@@ -1,7 +1,6 @@
 import React from 'react';
 import ProfileCard from './ProfileCard';
 import NavMenu from './NavMenu';
-import DarkModeToggle from './DarkModeToggle';
 
 export default function Sidebar() {
   return (

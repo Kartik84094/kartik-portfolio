@@ -1,4 +1,4 @@
-import { FaXTwitter, FaLinkedinIn, FaGithub, FaInstagram, FaMedium, FaCodepen } from 'react-icons/fa6';
+import { FaXTwitter, FaLinkedinIn, FaGithub, FaMedium } from 'react-icons/fa6';
 
 export default function Contact() {
   return (

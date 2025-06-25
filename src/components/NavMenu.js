@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import { FaUser, FaBriefcase, FaDollarSign, FaFileAlt, FaBlog, FaAddressBook } from 'react-icons/fa';
+import { FaUser, FaBriefcase, FaFileAlt, FaAddressBook } from 'react-icons/fa';
 
 export default function NavMenu() {
   const links = [
