@@ -13,7 +13,7 @@ export default function Resume() {
                     <div className="mt-6 md:mt-0 text-sm text-gray-300 space-y-1">
                         <p>📞 +91 84094 69744</p>
                         <p>✉️ kartikkumar84094@gamil.com</p>
-                        <p>🌐 https://kartik84094.github.io/kartik-portfolio/</p>
+                        <p><a href='https://kartik84094.github.io/kartik-portfolio/'>🌐 kartik84094.github.io/kartik-portfolio</a></p>
                         <p>📍Bangalore, India</p>
                     </div>
                 </div>
@@ -88,6 +88,23 @@ export default function Resume() {
                             </div>
                         </section>
 
+                        {/* Education */}
+                        <section>
+                            <h2 className="text-xl font-semibold text-green-400 mb-3">EDUCATION</h2>
+                            <ul className="text-sm text-gray-300 list-disc pl-5">
+                                <li>
+                                    Master of Computer Applications<br />
+                                    <span className="text-gray-400">Visvesvaraya Technological
+                                        University, Bangalore, 2018 - 2020</span>
+                                </li>
+                                <li className="mt-2">
+                                    Bachelor of Computer Science Applications<br />
+                                    <span className="text-gray-400">Tilka Manjhi Bhagalpur
+                                        University, Bhagalpur, 2013 - 2016</span>
+                                </li>
+                            </ul>
+                        </section>
+
 
                     </div>
 
@@ -97,15 +114,46 @@ export default function Resume() {
                         <section>
                             <h2 className="text-xl font-semibold text-green-400 mb-3">SKILLS</h2>
                             <div>
-                                <h4 className="text-sm text-gray-400 font-semibold">Technical</h4>
+                                <h4 className="text-sm text-green-400 font-semibold">Technical</h4>
                                 <ul className="text-sm text-gray-300 list-disc pl-5">
-                                    <li>JavaScript/Angular/React/Vue</li>
-                                    <li>Node.js</li>
-                                    <li>PostgreSQL/MySQL</li>
-                                </ul>
+                                <li>
+                                    Languages:<br />
+                                    <span className="text-gray-400">JavaScript(ES6+), TypeScript</span>
+                                </li>
+                                <li>
+                                    Frontend:<br />
+                                    <span className="text-gray-400">VueJs, ReactJs, Redux, NextJS</span>
+                                </li>
+                                <li>
+                                    Backend:<br />
+                                    <span className="text-gray-400">StrapiJs, NodeJs, ExpressJs, NestJs</span>
+                                </li>
+                                <li>
+                                    Database:<br />
+                                    <span className="text-gray-400">PostgreSQL, MongoDB, MySQL</span>
+                                </li>
+                                <li>
+                                    APIs:<br />
+                                    <span className="text-gray-400">REST APIs, JWT Authentication</span>
+                                </li>
+                                <li>
+                                    Tools:<br />
+                                    <span className="text-gray-400">Git, GitHub, Postman, Jira, Slack</span>
+                                </li>
+                                <li>
+                                    Cloud:<br />
+                                    <span className="text-gray-400">AWS(S3,Lambda), Firebase(Bucket)</span>
+                                </li>
+                                <li>
+                                    Others:<br />
+                                    <span className="text-gray-400">Agile/Scrum methodology</span>
+                                </li>
+                               
+                            </ul>
+                                
                             </div>
                             <div className="mt-4">
-                                <h4 className="text-sm text-gray-400 font-semibold">Professional</h4>
+                                <h4 className="text-sm text-green-400 font-semibold">Professional</h4>
                                 <ul className="text-sm text-gray-300 list-disc pl-5">
                                     <li>Strong problem solver</li>
                                     <li>Effective communication</li>
@@ -131,22 +179,6 @@ export default function Resume() {
                             </div>
                         </section>
 
-                        {/* Education */}
-                        <section>
-                            <h2 className="text-xl font-semibold text-green-400 mb-3">EDUCATION</h2>
-                            <ul className="text-sm text-gray-300 list-disc pl-5">
-                                <li>
-                                    Master of Computer Applications<br />
-                                    <span className="text-gray-400">Visvesvaraya Technological
-                                        University, 2010 - 2011</span>
-                                </li>
-                                <li className="mt-2">
-                                    Bachelor of Computer Science Applications<br />
-                                    <span className="text-gray-400">Tilka Manjhi Bhagalpur
-                                        University,Bhagalpur, 2007 - 2010</span>
-                                </li>
-                            </ul>
-                        </section>
 
                         {/* Awards */}
                         {/* <section>
