@@ -98,7 +98,7 @@ export default function Resume() {
                                         University, Bangalore, 2018 - 2020</span>
                                 </li>
                                 <li className="mt-2">
-                                    Bachelor of Computer Science Applications<br />
+                                    Bachelor of Computer Applications<br />
                                     <span className="text-gray-400">Tilka Manjhi Bhagalpur
                                         University, Bhagalpur, 2013 - 2016</span>
                                 </li>
