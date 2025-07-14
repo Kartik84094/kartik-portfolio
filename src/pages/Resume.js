@@ -21,10 +21,7 @@ export default function Resume() {
                 {/* Summary */}
                 <section className="mt-10">
                     <p className="text-gray-300 leading-relaxed">
-                        MERN Stack Software Engineer 5+ years of experience in building scalable
-                        web applications, API, and third-party integrations. Experienced in
-                        delivering B2B/B2C platforms and shopify widgets. Passionate about
-                        remote-first development, clean code and scalable systems.
+                        Experienced Full Stack Developer with over 6 years of experience in designing, developing, and maintaining web and mobile applications using the MERN stack and React Native. Skilled in building scalable, performant, and user-friendly applications.
                     </p>
                 </section>
 
@@ -43,11 +40,7 @@ export default function Resume() {
                                             integrating REST APIs for live data updates. Designed to be embedded
                                             on partner websites, it helped streamline integration and significantly
                                             reduce the onboarding effort for business partners.</li>
-                                        <li>Designed and developed Multipl's website using ReactJS, Next.js, and
-                                            performance optimization tools. Delivered a fast, scalable, and
-                                            SEO-optimized platform, which enhanced the brand's digital presence
-                                            and led to increased user traffic and engagement.</li>
-
+                                        <li>Built and deployed mobile apps using React Native for Android and iOS platforms.</li>
                                     </ul>
                                 </div>
                                 <div>
@@ -116,41 +109,45 @@ export default function Resume() {
                             <div>
                                 <h4 className="text-sm text-green-400 font-semibold">Technical</h4>
                                 <ul className="text-sm text-gray-300 list-disc pl-5">
-                                <li>
-                                    Languages:<br />
-                                    <span className="text-gray-400">JavaScript(ES6+), TypeScript</span>
-                                </li>
-                                <li>
-                                    Frontend:<br />
-                                    <span className="text-gray-400">VueJs, ReactJs, Redux, NextJS</span>
-                                </li>
-                                <li>
-                                    Backend:<br />
-                                    <span className="text-gray-400">StrapiJs, NodeJs, ExpressJs, NestJs</span>
-                                </li>
-                                <li>
-                                    Database:<br />
-                                    <span className="text-gray-400">PostgreSQL, MongoDB, MySQL</span>
-                                </li>
-                                <li>
-                                    APIs:<br />
-                                    <span className="text-gray-400">REST APIs, JWT Authentication</span>
-                                </li>
-                                <li>
-                                    Tools:<br />
-                                    <span className="text-gray-400">Git, GitHub, Postman, Jira, Slack</span>
-                                </li>
-                                <li>
-                                    Cloud:<br />
-                                    <span className="text-gray-400">AWS(S3,Lambda), Firebase(Bucket)</span>
-                                </li>
-                                <li>
-                                    Others:<br />
-                                    <span className="text-gray-400">Agile/Scrum methodology</span>
-                                </li>
-                               
-                            </ul>
-                                
+                                    <li>
+                                        Languages:<br />
+                                        <span className="text-gray-400">JavaScript(ES6+), TypeScript</span>
+                                    </li>
+                                    <li>
+                                        Frontend:<br />
+                                        <span className="text-gray-400">React Native, ReactJs, Redux, NextJS</span>
+                                    </li>
+                                    <li>
+                                        Mobile Development:<br />
+                                        <span className="text-gray-400">React Native</span>
+                                    </li>
+                                    <li>
+                                        Backend:<br />
+                                        <span className="text-gray-400">StrapiJs, NodeJs, ExpressJs, NestJs</span>
+                                    </li>
+                                    <li>
+                                        Database:<br />
+                                        <span className="text-gray-400">PostgreSQL, MongoDB, MySQL</span>
+                                    </li>
+                                    <li>
+                                        APIs:<br />
+                                        <span className="text-gray-400">REST APIs, JWT Authentication</span>
+                                    </li>
+                                    <li>
+                                        Tools:<br />
+                                        <span className="text-gray-400">Git, GitHub, Postman, Jira, Slack</span>
+                                    </li>
+                                    <li>
+                                        Cloud:<br />
+                                        <span className="text-gray-400">AWS(S3,Lambda), Firebase(Bucket)</span>
+                                    </li>
+                                    <li>
+                                        Others:<br />
+                                        <span className="text-gray-400">Agile/Scrum methodology</span>
+                                    </li>
+
+                                </ul>
+
                             </div>
                             <div className="mt-4">
                                 <h4 className="text-sm text-green-400 font-semibold">Professional</h4>
@@ -165,15 +162,16 @@ export default function Resume() {
                         <section>
                             <h2 className="text-xl font-semibold text-green-400 mb-4">PROJECTS</h2>
                             <div className="space-y-6">
-                                
-                                    <ul className="text-sm text-gray-300 list-disc pl-5">
-                                        <li>B2B Widget</li>
-                                        <li>Shopify Widget</li>
-                                        <li>Shopify Custom Payment Gateway</li>
-                                        <li>Fintech Application (B2B & B2C)</li>
-                                        <li>Web Applications</li>
-                                        <li>API Impementation</li>
-                                    </ul>
+
+                                <ul className="text-sm text-gray-300 list-disc pl-5">
+                                    <li>B2B Widget</li>
+                                    <li>Shopify Widget</li>
+                                    <li>Shopify Custom Payment Gateway</li>
+                                    <li>Fintech Application (B2B & B2C)</li>
+                                    <li>Web Applications</li>
+                                    <li>API Impementation</li>
+                                    <li>TCPL Mobile APP</li>
+                                </ul>
 
                                 {/* Add more projects similarly */}
                             </div>
